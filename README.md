@@ -1,4 +1,4 @@
-# 🎯 Shader Finder
+# 🎯 Pink Shader Finder
 
 **Find and fix broken shaders in your Unity project efficiently.**
 
