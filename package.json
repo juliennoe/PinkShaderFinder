@@ -1,0 +1,11 @@
+{
+  "name": "com.juliennoe.shaderfinder",
+  "version": "2023.1.0",
+  "displayName": "Shader Finder",
+  "description": "Find materials with internal error shaders and quickly reassign replacements across your Unity project.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Julien Noé",
+    "url": "https://github.com/juliennoe"
+  }
+}
