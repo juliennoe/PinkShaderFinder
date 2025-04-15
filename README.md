@@ -34,7 +34,7 @@
 2. Add this line:
 
 ```json
-"com.juliennoe.shaderfinder": "https://github.com/juliennoe/shaderfinder.git"
+"com.juliennoe.pinkshaderfinder": "https://github.com/juliennoe/pinkshaderfinder.git"
 ```
 
 ## 📄 License
