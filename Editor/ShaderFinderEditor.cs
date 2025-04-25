@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.IO;
 
-namespace JulienNoe.Tools.NamingConvention
+namespace JulienNoe.Tools.ShaderFinder
 {
     public class ShaderFinderEditor : EditorWindow
     {
@@ -17,7 +17,7 @@ namespace JulienNoe.Tools.NamingConvention
         private bool showHelp = false;
         private bool isPlayMode => EditorApplication.isPlayingOrWillChangePlaymode;
 
-        [MenuItem("Tools/Shader Finder")]
+        [MenuItem("Tools/Julien Noe/Shader Finder")]
         public static void ShowWindow()
         {
             GetWindow<ShaderFinderEditor>("Shader Finder");
